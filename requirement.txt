@@ -1,0 +1,16 @@
+streamlit
+scikit-learn
+xgboost
+pandas
+numpy
+joblib
+imblearn
+praw
+matplotlib
+bcrypt
+sqlite3
+json
+pickle
+TfidfVectorizer
+RandomizedSearchCV
+SMOTE
